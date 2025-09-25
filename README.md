@@ -33,9 +33,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sinanmertsenerr&show_icons=true&theme=radical&border_color=e62a29&hide_border=true&bg_color=151515" alt="Sinan's GitHub Stats"/>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=sinanmertsenerr&theme=radical&background=151515&border=e62a29&hide_border=true" alt="Streak Stats"/>
-</div>
-
 <div align="center">
   <h3><strong>Görüşürüz ⚡️</strong></h3>
   <img src="./footer.gif" width="100%" />
