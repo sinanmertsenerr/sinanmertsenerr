@@ -33,8 +33,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sinanmertsenerr&show_icons=true&theme=radical&border_color=e62a29&hide_border=true&bg_color=151515" alt="Sinan's GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinanmertsenerr&layout=compact&theme=radical&border_color=e62a29&hide_border=true&bg_color=151515" alt="Top Languages"/>
-  <br/>
   <img src="https://streak-stats.demolab.com?user=sinanmertsenerr&theme=radical&background=151515&border=e62a29&hide_border=true" alt="Streak Stats"/>
 </div>
 
