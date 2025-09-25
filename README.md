@@ -40,7 +40,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sinanmertsenerr/sinanmertsenerr/main/footer.gif" width="100%"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlrc3NocjJoeXR0N2RncDU4d2FqdGR5MXo5MGc4bHhyb2N1cTdzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOxeZUc8UFwMgH2MM/giphy.gif" width="100%"/>
 </div>
 
 
