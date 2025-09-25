@@ -5,7 +5,7 @@
 <div align="center">
   <h1>Sinan Mert Sener</h1>
   <h3>High Profile Fullstack Developer ⚡</h3>
-  <p>Building the future at lightning speed. I turn complex problems into elegant, high-performance solutions as a full-stack developer.</p>
+  <p>Building the future at more than speed of light. I turn complex problems into elegant, high-performance solutions as a full-stack developer.</p>
 </div>
 
 ---
