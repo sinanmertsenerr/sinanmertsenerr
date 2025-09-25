@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/l46Cb34n05pfYmf0A/giphy.gif" width="100%"/>
+  <img src="https://i.imgur.com/8QtmGgM.gif" width="100%"/>
 </div>
 
 <div align="center">
@@ -13,7 +13,8 @@
 ### 📬 Connect with Me
 
 <p align="center">
-  <a href="mailto:sinanmertsener9@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:MAIL_ADRESINI_YAZ" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/users/DISCORD_KULLANICI_ID" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/LINKEDIN_PROFIL_ADIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/sinanmertsenerr" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -23,7 +24,7 @@
 ### 🚀 My Technology Stacks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,java,nodejs,html,css,csharp,postgresql,dotnet,cs,mysql,mongodb,git,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,python,flask,dotnet,cs,mysql,mongodb,git,vscode,postman" />
 </div>
 
 ---
@@ -46,7 +47,7 @@
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <a href="https://github.com/sinanmertsenerr/NikiApp">
+        <a href="https://github.com/sinanmertsenerr/PROJE-ADI-1">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=sinanmertsenerr&repo=PROJE-ADI-1&theme=radical&border_color=e62a29&hide_border=true&bg_color=151515" />
         </a>
       </div>
@@ -62,5 +63,5 @@
 </table>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlHFRbmaZt0gbyw/giphy.gif" width="100%"/>
+  <img src="https://i.imgur.com/f02f2A1.gif" width="100%"/>
 </div>
