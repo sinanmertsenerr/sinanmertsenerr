@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJiMm9mbmhsY2hzcW42OWwyZWM3MWdtZmlkcno4bWYzOWlpZ29ibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bZJif3rycbm12/giphy.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/sinanmertsenerr/sinanmertsenerr/main/header.gif" width="100%"/>
 </div>
 
 <div align="center">
@@ -39,5 +39,6 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlrc3NocjJoeXR0N2RncDU4d2FqdGR5MXo5MGc4bHhyb2N1cTdzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOxeZUc8UFwMgH2MM/giphy.gif" width="100%"/>
+  <h3><strong>Görüşürüz ⚡️</strong></h3>
+  <img src="https://raw.githubusercontent.com/sinanmertsenerr/sinanmertsenerr/main/footer.gif" width="100%"/>
 </div>
