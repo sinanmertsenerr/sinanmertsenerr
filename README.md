@@ -40,27 +40,3 @@
 
 ---
 
-### 📌 Pinned Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <a href="https://github.com/sinanmertsenerr/PROJE-ADI-1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sinanmertsenerr&repo=PROJE-ADI-1&theme=radical&border_color=e62a29&hide_border=true&bg_color=151515" />
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <a href="https://github.com/sinanmertsenerr/PROJE-ADI-2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sinanmertsenerr&repo=PROJE-ADI-2&theme=radical&border_color=e62a29&hide_border=true&bg_color=151515" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNkNzVod2JqbmJvMjhxeHNkb2t1ajd0MGp2ZXk5cG1nM2IzbmN0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4hRy0u1cgIYMg/giphy.gif" width="100%"/>
-</div>
