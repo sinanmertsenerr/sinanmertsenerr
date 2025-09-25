@@ -44,4 +44,3 @@
 </div>
 
 
-kodu bozmadan bu gifi ekranda gezicek şekilde ekle farem
