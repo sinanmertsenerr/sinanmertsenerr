@@ -63,5 +63,5 @@
 </table>
 
 <div align="center">
-  <img src="https://i.imgur.com/f02f2A1.gif" width="100%"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJiMm9mbmhsY2hzcW42OWwyZWM3MWdtZmlkcno4bWYzOWlpZ29ibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bZJif3rycbm12/giphy.gif" width="100%"/>
 </div>
