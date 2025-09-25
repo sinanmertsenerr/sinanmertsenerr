@@ -23,7 +23,7 @@
 ### 🚀 My Technology Stacks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,python,flask,dotnet,cs,mysql,mongodb,git,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,python,cs,java,flutter,postgresql,postman" />
 </div>
 
 ---
