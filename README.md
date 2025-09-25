@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJiMm9mbmhsY2hzcW42OWwyZWM3MWdtZmlkcno4bWYzOWlpZ29ibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bZJif3rycbm12/giphy.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/sinanmertsenerr/sinanmertsenerr/main/profile_flash.png" alt="Sinan Mert Sener - Flash Profile" width="300px"/>
 </div>
 
 <div align="center">
@@ -35,7 +35,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinanmertsenerr&layout=compact&theme=radical&border_color=e62a29&hide_border=true&bg_color=151515" alt="Top Languages"/>
   <br/>
-  <!-- DÜZELTME: Daha stabil çalışan streak stats servisi eklendi -->
   <img src="https://streak-stats.demolab.com?user=sinanmertsenerr&theme=radical&background=151515&border=e62a29&hide_border=true" alt="Streak Stats"/>
 </div>
 
