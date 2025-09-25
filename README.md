@@ -35,8 +35,10 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinanmertsenerr&layout=compact&theme=radical&border_color=e62a29&hide_border=true&bg_color=151515" alt="Top Languages"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinanmertsenerr&theme=dark-bold&border=e62a29&hide_border=true&background=151515" alt="Streak Stats"/>
+  <!-- DÜZELTME: Daha stabil çalışan streak stats servisi eklendi -->
+  <img src="https://streak-stats.demolab.com?user=sinanmertsenerr&theme=radical&background=151515&border=e62a29&hide_border=true" alt="Streak Stats"/>
 </div>
 
----
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sinanmertsenerr/sinanmertsenerr/main/footer.gif" width="100%"/>
+</div>
