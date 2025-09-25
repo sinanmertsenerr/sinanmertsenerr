@@ -40,5 +40,6 @@
 
 <div align="center">
   <h3><strong>Görüşürüz ⚡️</strong></h3>
-  <img src="https://raw.githubusercontent.com/sinanmertsenerr/sinanmertsenerr/main/footer.gif" width="100%"/>
+  <img src="./footer.gif" width="100%" />
 </div>
+
