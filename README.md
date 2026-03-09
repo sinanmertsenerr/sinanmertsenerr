@@ -31,6 +31,5 @@
   <br/>
 <div align="center">
   <h3><strong>Görüşürüz ⚡️</strong></h3>
-  <img src="./footer.gif" width="100%" />
 </div>
 
