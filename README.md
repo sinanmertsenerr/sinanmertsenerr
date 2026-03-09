@@ -1,11 +1,8 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sinanmertsenerr/sinanmertsenerr/main/image.gif" width="100%"/>
-</div>
 
 <div align="center">
   <h1>Sinan Mert Sener</h1>
   <h3>High Profile Fullstack Developer ⚡</h3>
-  <p>Building the future at more than speed of light. I turn complex problems into elegant, high-performance solutions as a full-stack developer.</p>
+  <p>I turn complex problems into elegant, high-performance solutions as a full-stack developer.</p>
 </div>
 
 ---
@@ -13,8 +10,7 @@
 ### 📬 Connect with Me
 
 <p align="center">
-  <a href="mailto:sinanmertsener9@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/LINKEDIN_PROFIL_ADIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sinanmertsenerr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/sinanmertsenerr" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
